@@ -1,2 +1,2 @@
-# Getting_jIn
+# Getting_In
 First Repository
